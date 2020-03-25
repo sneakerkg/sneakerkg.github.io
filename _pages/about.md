@@ -1,14 +1,21 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "Tianjun Xiao"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<p align="center">
+  <img src="https://github.com/sneakerkg/sneakerkg.github.io/tree/master/images/life.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 This website is currently WIP...
 
+About Me
+======
 * I am a Senior Applied Scientist in [Amazon Web Service](https://aws.amazon.com/) Shanghai AI Lab (ASAIL).
 * Before joining Amazon, I was a Staff Machine Learning Scientist at [Tesla Autopilot](https://www.tesla.com/autopilot) AI/Vision team. I was a major contributor and task owner of Autopilot (Dynamic and Static) Object Detection during 2017 - 2020. My working items have been shipped into hundreds of thousands of Tesla cars worldwide during major Autopilot releases, contributing to Autopilot functionalities like Traffic-Aware Cruise Control, Auto Lane Change, [Automatic Emergency Braking](https://www.tesla.com/blog/model-3-earns-5-star-safety-rating-euro-ncap), [Navigation on Autopilot](https://www.tesla.com/blog/introducing-navigate-autopilot), [Smart Summon](https://electrek.co/2019/09/24/tesla-smart-summon-driverless-video/), etc.
 * Prior to Tesla, I spent 3.25 years at Microsoft. I was a Software Engineer 2 at Microsoft [Bing](https://cn.bing.com/images/trending?form=Z9LH) Multimedia team (now under Microsoft AI & Research Org), where I was working on Semantic Embedding to contribute functionalities like Image Annotation and Image Search in Bing Search Engine. And during my graduate years, I interned at Microsoft Research Asia, advised by Prof. [Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang) and Dr. [Kuiyuan Yang](https://sites.google.com/site/kuiyuanyang/), where I was working on both training platform and vision applications of deep learning. I was a major contributor of the open-source deep learning training framework [Minerva](https://github.com/dmlc/minerva) and also contributed to the machine learning library [MXNet](https://github.com/apache/incubator-mxnet). 
