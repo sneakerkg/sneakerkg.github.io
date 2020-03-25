@@ -1,7 +1,7 @@
 ---
 title: "MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems"
 collection: publications
-permalink: /publication/2015-12-nips-mxnet
+permalink: /publication/02-2015-12-nips-mxnet
 date: 2015-12-01
 venue: "NIPS 2015 Workshop on Machine Learning Systems"
 citation: 'T Chen, M Li, Y Li, M Lin, N Wang, M Wang, <b>T Xiao</b>, B Xu, C Zhang, and Z Zhang. <i>In NeurIPS 2015 Workshop on Machine Learning Systems</i>. <b> NeurIPS 2015 Workshop</b>'
