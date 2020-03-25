@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/sneakerkg/sneakerkg.github.io/blob/master/images/life.jpeg" alt="Photo" style="width: 450px;"/> 
+  <img src="https://sneakerkg.github.io/images/life_compact.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 This website is currently WIP...
