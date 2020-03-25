@@ -32,7 +32,9 @@ Work experience
   * Image Understanding Team, Multimedia Group, Bellevue, WA, US 
  
 * Microsoft Research Asia: Research Intern, Mar 2013 - Mar 2015
-  * System Research Group and Media Computing Group, Beijing, China
+  * System Research Group, Advised by Prof. [Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang)
+  * Media Computing Group, Advised by Dr. [Kuiyuan Yang](https://sites.google.com/site/kuiyuanyang/) 
+  * Beijing, China
  
  
 Service
