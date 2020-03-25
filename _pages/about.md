@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Tianjun Xiao"
-excerpt: "About me"
+excerpt: "Tianjun Xiao"
 author_profile: true
 redirect_from: 
   - /about/
