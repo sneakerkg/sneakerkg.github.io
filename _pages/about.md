@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Tianjun Xiao"
+title: "About Me"
 excerpt: "Tianjun Xiao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This page is currently WIP...
+This website is currently WIP...
 
 * I am a Senior Applied Scientist in [Amazon Web Service](https://aws.amazon.com/) Shanghai AI Lab (ASAIL).
 * Before joining Amazon, I was a Staff Machine Learning Scientist at [Tesla Autopilot](https://www.tesla.com/autopilot) AI/Vision team. I was a major contributor and task owner of Autopilot (Dynamic and Static) Object Detection during 2017 - 2020. My working items have been shipped into hundreds of thousands of Tesla cars worldwide during major Autopilot releases, contributing to Autopilot functionalities like Traffic-Aware Cruise Control, Auto Lane Change, [Automatic Emergency Braking](https://www.tesla.com/blog/model-3-earns-5-star-safety-rating-euro-ncap), [Navigation on Autopilot](https://www.tesla.com/blog/introducing-navigate-autopilot), [Smart Summon](https://electrek.co/2019/09/24/tesla-smart-summon-driverless-video/), etc.
