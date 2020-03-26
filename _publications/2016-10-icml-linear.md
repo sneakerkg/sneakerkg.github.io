@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-10-icml-linear
 date: 2016-10-01
 venue: "ICML 2016 Workshop on Visualization for Deep Learning"
-citation: 'W Yu, K Yang, Y Bai, <b>T Xiao</b>, H Yao, Y Rui. <i>In ICML 2016 Workshop on Visualization for Deep Learning</i>. <b> ICML 2016 Workshop'
+citation: 'W Yu, K Yang, Y Bai, <b>T Xiao</b>, H Yao, Y Rui. <i>In ICML 2016 Workshop on Visualization for Deep Learning</i>. <b> ICML 2016 Workshop</b>'
 ---
 
 
