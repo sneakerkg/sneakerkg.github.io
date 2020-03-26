@@ -2,9 +2,9 @@
 title: "IMAGE ANNOTATION"
 collection: publications
 permalink: /patents/image-annot
-date: 2018-3-26
+date: 2018-03-26
 venue: "US Patent"
-citation: 'Yokesh KUMAR, Kuang-Huei LEE, Houdong HU, Li HUANG, Arun SACHETI, Meenaz MERCHANT, Linjun YANG, <b>Tianjun XIAO</b>, Saurajit MUKHERJEE'. <b>US Patent 20190294705</b>
+citation: 'Yokesh KUMAR, Kuang-Huei LEE, Houdong HU, Li HUANG, Arun SACHETI, Meenaz MERCHANT, Linjun YANG, <b>Tianjun XIAO</b>, Saurajit MUKHERJEE. <b>US Patent 20190294705</b>'
 ---
 
 
