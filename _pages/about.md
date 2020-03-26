@@ -12,7 +12,6 @@ redirect_from:
   <img src="https://sneakerkg.github.io/images/life_compact_crop.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-This website is currently WIP...
 
 About Me
 ======
