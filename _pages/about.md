@@ -23,4 +23,4 @@ About Me
 
 Recent News
 ======
-* I'm thrilled to join [Amazon Web Service](https://aws.amazon.com/) Shanghai AI Lab (ASAIL) on March 2020! In the next period, I will be focusing on graph neural network, exploring and exploiting it's usage in applications like 3D Vision and Traffic Prediction/Control.
+* I'm thrilled to join [Amazon Web Service](https://aws.amazon.com/) Shanghai AI Lab (ASAIL) on March 2020! In the next period, I will be focusing on graph neural network, exploring and exploiting its usage in applications like 3D Vision and Traffic Prediction/Control.
