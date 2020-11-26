@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Home Sweet Home<br>
+No. 1901 Huashan Road, Tower A, One ITC, Shanghai, China<br>
 Email: xiaotianjun [at] pku.edu.cn

@@ -29,17 +29,18 @@ Work experience
   * AI/Vision Team, Palo Alto, CA, US
 
 * Microsoft Bing: Software Engineer 2, Oct 2015 - Dec 2016
-  * Image Understanding Team, Multimedia Group, Bellevue, WA, US 
- 
+  * Image Understanding Team, Multimedia Group, Bellevue, WA, US
+
 * Microsoft Research Asia: Research Intern, Mar 2013 - Mar 2015
   * System Research Group, Advised by Prof. [Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang)
-  * Media Computing Group, Advised by Dr. [Kuiyuan Yang](https://sites.google.com/site/kuiyuanyang/) 
+  * Media Computing Group, Advised by Dr. [Kuiyuan Yang](https://sites.google.com/site/kuiyuanyang/)
   * Beijing, China
- 
- 
+
+
 Service
 ======
 * Reviewer of:
+  * IEEE Transactions on Knowledge and Data Engineering (TKDE)
   * IEEE Transaction on Circuits and Systems for Video Technology (TCSVT)
   * IEEE Transaction on Multimedia (TMM)
   * Neurocomputing
