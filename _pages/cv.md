@@ -41,8 +41,8 @@ Service
 ======
 * Reviewer of:
   * IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  * IEEE Transaction on Circuits and Systems for Video Technology (TCSVT)
-  * IEEE Transaction on Multimedia (TMM)
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  * IEEE Transactions on Multimedia (TMM)
   * Neurocomputing
   * IEEE Signal Processing Letters
   * International Journal of Computer Assisted Radiology and Surgery (CARS)
