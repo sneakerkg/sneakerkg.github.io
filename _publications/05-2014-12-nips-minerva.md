@@ -1,7 +1,7 @@
 ---
 title: "Minerva: a scalable and highly efficient deep learning training platform"
 collection: publications
-permalink: /publication/03-2014-12-nips-minerva
+permalink: /publication/05-2014-12-nips-minerva
 date: 2014-12-01
 venue: "NeurIPS 2014 Workshop of Distributed Matrix Computations"
 citation: 'M Wang, <b>T Xiao</b>, J Li, J Zhang, C Hong, Z Zhang. <i>In NeurIPS 2014 workshop of Distributed Matrix Computations</i>. <b> NeurIPS 2014 Workshop</b>'

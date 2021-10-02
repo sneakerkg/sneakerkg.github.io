@@ -12,6 +12,11 @@ redirect_from:
   <img src="https://sneakerkg.github.io/images/life_compact_crop.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
+Recent News
+======
+* One paper accepted to NeurIPS 2021: GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction.
+
+* Our paper on GNN-based hierarchical clustering is accepted by ICCV 2021: Learning Hierarchical Graph Neural Networks for Image Clustering. Check out our [paper](https://arxiv.org/abs/2107.01319) and [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander)!
 
 About Me
 ======
@@ -20,7 +25,3 @@ About Me
 * Prior to Tesla, I spent 3.25 years at Microsoft. I was a Software Engineer 2 at Microsoft [Bing](https://cn.bing.com/images/trending?form=Z9LH) Multimedia team (now under Microsoft AI & Research Org), where I was working on Image-Text Semantic Embedding to contribute to functionalities like Image Annotation and Image Search in Bing Search Engine. And during my graduate years, I interned at Microsoft Research Asia, advised by Prof. [Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang) and Dr. [Kuiyuan Yang](https://sites.google.com/site/kuiyuanyang/), where I was working on both training platform and vision applications of deep learning. I was a major contributor of the open-source deep learning training framework [Minerva](https://github.com/dmlc/minerva) and also contributed to the machine learning library [MXNet](https://github.com/apache/incubator-mxnet).
 * I received M.S degree in Computer Science from [Wangxuan Institute Of Computer Technology](http://www.icst.pku.edu.cn/index.htm), [Peking University](https://www.pku.edu.cn/), advised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/yuxinpeng/). And B.S degree in Computer Science from [Nankai University](https://www.nankai.edu.cn/).
 * My enthusiasm is to apply machine learning to large-scale, life-changing technologies, currently with a focus on computer vision related applications.
-
-Recent News
-======
-* I'm thrilled to join [Amazon Web Service](https://aws.amazon.com/) Shanghai AI Lab (ASAIL) on March 2020! In the next period, I will be focusing on graph neural network, exploring and exploiting its usage in applications like Video Analysis, Relational Inference, 3D Vision and Traffic Prediction.
