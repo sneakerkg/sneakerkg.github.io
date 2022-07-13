@@ -40,6 +40,9 @@ Work experience
 Service
 ======
 * Reviewer of:
+  * Conference on Neural Information Processing Systems (NeurIPS)
+  * The International Conference on Learning Representations (ICLR)
+  * The International Conference on Machine Learning (ICML)
   * IEEE Transactions on Knowledge and Data Engineering (TKDE)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * IEEE Transactions on Multimedia (TMM)
