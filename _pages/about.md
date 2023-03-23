@@ -14,7 +14,9 @@ redirect_from:
 
 Recent News
 ======
-* One paper is accepted to NeurIPS 2022 (Spotlight): Self-supervised Amodal Video Object Segmentation. [Paper](https://www.amazon.science/publications/self-supervised-amodal-video-object-segmentation) link. Open source code is on the way.
+* One paper is accepted to ICLR 2023: Bridging the Gap to Real-World Object-Centric Learning. [Paper](https://arxiv.org/abs/2209.14860) link.
+
+* One paper is accepted to NeurIPS 2022 (Spotlight): Self-supervised Amodal Video Object Segmentation. [Paper](https://www.amazon.science/publications/self-supervised-amodal-video-object-segmentation) link and [code](https://github.com/amazon-science/self-supervised-amodal-video-object-segmentation) link.
 
 * One paper is accepted to ECCV 2022: PSS: Progressive Sample Selection for Open-World Visual Representation Learning. Check out our [paper](https://www.amazon.science/publications/pss-progressive-sample-selection-for-open-world-visual-representation-learning) and [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS).
 
