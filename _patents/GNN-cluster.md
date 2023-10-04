@@ -4,7 +4,7 @@ collection: publications
 permalink: /patents/GNN-cluster
 date: 2020-11-18
 venue: "US Patent in submission"
-citation: '</b>Tianjun Xiao</b>, Yifan Xing, Tong He, Yuanjun Xiong, Wei Xia, David Wipf, Zheng Zhang, Stefano, Soatto'
+citation: '<b>Tianjun Xiao</b>, Yifan Xing, Tong He, Yuanjun Xiong, Wei Xia, David Wipf, Zheng Zhang, Stefano, Soatto'
 ---
 
 
