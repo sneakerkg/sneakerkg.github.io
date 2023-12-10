@@ -16,6 +16,8 @@ Recent News
 ======
 * We are hiring computer vision/machine learning applied scientist in AWS Shanghai AI Lablet who will be available on job market in 2024. If you are interested in working in Shanghai, send me an email!
 
+* Introduce our work, 🔥Instruct Video-to-Video🔥, an efficient approach for video editing that eliminates the need for per-video-per-model finetuning by constructing a synthetic paired video dataset. ([Paper](https://arxiv.org/abs/2311.00213), [Code](https://github.com/amazon-science/instruct-video-to-video))
+
 * Four papers got accpeted to ICCV 2023: OC-MOT ([Paper](https://assets.amazon.science/4c/a4/5f7af328411084022d95b67bc16e/object-centric-multiple-object-tracking.pdf), [Code](https://github.com/amazon-science/object-centric-multiple-object-tracking)), Slot-Naming ([Paper](https://assets.amazon.science/df/c2/2e845de144b0b4707c2e95bc616e/unsupervised-open-vocabulary-object-localization-in-videos.pdf)), C2F-Seg([Paper](https://www.amazon.science/publications/coarse-to-fine-amodal-segmentation-with-shape-prior), [Project Page](https://jianxgao.github.io/C2F-Seg/)), EoRaS([Paper](https://assets.amazon.science/25/3f/86240b4d4b67b4fb837b03f51b3d/rethinking-amodal-video-segmentation-from-learning-supervised-signals-with-object-centric-representation.pdf)).
 
 * One paper is accepted to ICLR 2023: Bridging the Gap to Real-World Object-Centric Learning. [Paper](https://arxiv.org/abs/2209.14860) link and [code](https://github.com/amazon-science/object-centric-learning-framework) link.
