@@ -2565,7 +2565,7 @@
 				// Dumb process that flags multiple times upper parents, but still
 				// much more efficient than trying to be smart and make short lists,
 				// at least in the case of a hierarchy following a power law:
-				// y/2
+				// 
 				parent = layers[id].__parent;
 				while (parent) {
 					parent._iconNeedsUpdate = true;
