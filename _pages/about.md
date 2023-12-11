@@ -1,38 +1,50 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://sneakerkg.github.io/images/life_compact_crop.jpg?raw=true" alt="Photo" style="width: 450px;"/>
-</p>
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-Recent News
+A data-driven personal website
 ======
-* We are hiring computer vision/machine learning applied scientist in AWS Shanghai AI Lablet who will be available on job market in 2024. If you are interested in working in Shanghai, send me an email!
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-* Introduce our work, 🔥Instruct Video-to-Video🔥, an efficient approach for video editing that eliminates the need for per-video-per-model finetuning by constructing a synthetic paired video dataset. ([Paper](https://arxiv.org/abs/2311.00213), [Code](https://github.com/amazon-science/instruct-video-to-video))
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-* Four papers got accpeted to ICCV 2023: OC-MOT ([Paper](https://assets.amazon.science/4c/a4/5f7af328411084022d95b67bc16e/object-centric-multiple-object-tracking.pdf), [Code](https://github.com/amazon-science/object-centric-multiple-object-tracking)), Slot-Naming ([Paper](https://assets.amazon.science/df/c2/2e845de144b0b4707c2e95bc616e/unsupervised-open-vocabulary-object-localization-in-videos.pdf)), C2F-Seg([Paper](https://www.amazon.science/publications/coarse-to-fine-amodal-segmentation-with-shape-prior), [Project Page](https://jianxgao.github.io/C2F-Seg/)), EoRaS([Paper](https://assets.amazon.science/25/3f/86240b4d4b67b4fb837b03f51b3d/rethinking-amodal-video-segmentation-from-learning-supervised-signals-with-object-centric-representation.pdf)).
-
-* One paper is accepted to ICLR 2023: Bridging the Gap to Real-World Object-Centric Learning. [Paper](https://arxiv.org/abs/2209.14860) link and [code](https://github.com/amazon-science/object-centric-learning-framework) link.
-
-* One paper is accepted to NeurIPS 2022 (Spotlight): Self-supervised Amodal Video Object Segmentation. [Paper](https://www.amazon.science/publications/self-supervised-amodal-video-object-segmentation) link and [code](https://github.com/amazon-science/self-supervised-amodal-video-object-segmentation) link.
-
-* One paper is accepted to ECCV 2022: PSS: Progressive Sample Selection for Open-World Visual Representation Learning. Check out our [paper](https://www.amazon.science/publications/pss-progressive-sample-selection-for-open-world-visual-representation-learning) and [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS).
-
-* One paper is accepted to NeurIPS 2021: GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction. Check [it](https://proceedings.neurips.cc/paper/2021/hash/e3670ce0c315396e4836d7024abcf3dd-Abstract.html) out!
-
-
-About Me
+Getting started
 ======
-* I am an Applied Science Manager at [Amazon Web Service](https://aws.amazon.com/) AI Shanghai Lablet, leading computer vision efforts. I play a lot with objects. In this period, I will be focusing on object-centric learning, visual-language model, graph neural network and causal representation learning, exploring and exploiting their usage in applications like video analysis, 3D vision, autonomous driving and robotics.
-* Before joining Amazon, I was a Staff Machine Learning Scientist at [Tesla Autopilot](https://www.tesla.com/autopilot) AI/Vision team, working with Dr. [Andrej Karpathy](https://karpathy.ai/). I was one of the major contributors of the Autopilot vision neural network stack and the task owner of Autopilot (Dynamic and Static) Object Detection during 2017 - 2020. My working items have been shipped into hundreds of thousands of Tesla cars worldwide during major Autopilot releases, contributing to Autopilot functionalities like Traffic-Aware Cruise Control, Auto Lane Change, [Automatic Emergency Braking](https://www.tesla.com/blog/model-3-earns-5-star-safety-rating-euro-ncap), [Navigation on Autopilot](https://www.tesla.com/blog/introducing-navigate-autopilot), [Smart Summon](https://electrek.co/2019/09/24/tesla-smart-summon-driverless-video/), etc.
-* Prior to Tesla, I spent 3.25 years at Microsoft. I was a Software Engineer 2 at Microsoft [Bing](https://cn.bing.com/images/trending?form=Z9LH) Multimedia team (now under Microsoft AI & Research Org) working with Dr. [Linjun Yang](https://scholar.google.com/citations?user=cvgKxDQAAAAJ&hl=zh-CN), where I was working on Image-Text Semantic Embedding to contribute to functionalities like Image Annotation and Image Search in Bing Search Engine. And during my graduate years, I interned at Microsoft Research Asia, advised by Prof. [Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang) and Dr. [Kuiyuan Yang](https://sites.google.com/site/kuiyuanyang/), where I was working on both training platform and vision applications of deep learning. I was a major contributor of the open-source deep learning training framework [Minerva](https://github.com/dmlc/minerva) and also contributed to the machine learning library [MXNet](https://github.com/apache/incubator-mxnet).
-* I received M.S degree in Computer Science from [Wangxuan Institute Of Computer Technology](https://www.icst.pku.edu.cn/index.htm), [Peking University](https://www.pku.edu.cn/), advised by Prof. [Yuxin Peng]https:////59.108.48.34/tiki/yuxinpeng/). And B.S degree in Computer Science from [Nankai University](https://www.nankai.edu.cn/).
-* My enthusiasm is to apply machine learning to large-scale, life-changing technologies, currently with a focus on computer vision related applications.
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+
+Site-wide configuration
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
+Create content & metadata
+------
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+
+**Markdown generator**
+
+I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+
+How to edit your site's GitHub repository
+------
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
+For more info
+------
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

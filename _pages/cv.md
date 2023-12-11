@@ -11,44 +11,49 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Wangxuan Institute Of Computer Technology, Peking University, 2012 - 2015
-  * Advised by Prof. [Yuxin Peng](https://59.108.48.34/tiki/yuxinpeng/)
-  * Thesis: Incremental Deep Leaning and Its Application in Image Classification
-  * Excellent Master Thesis, Rank: 1/21
-
-* B.S. in Computer Science, Nankai University, 2008 - 2012
-  * GPA Rank: 2/77, top 3%
-  * Graduate with honor
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Amazon Web Service Shanghai AI Lab: Senior Applied Scientist, Mar 2020 - Present
-  * Shanghai, China
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-* Tesla Autopilot: Staff Machine Learning Scientist, Dec 2016 - Mar 2020
-  * AI/Vision Team, Palo Alto, CA, US
-
-* Microsoft Bing: Software Engineer 2, Oct 2015 - Dec 2016
-  * Image Understanding Team, Multimedia Group, Bellevue, WA, US
-
-* Microsoft Research Asia: Research Intern, Mar 2013 - Mar 2015
-  * System Research Group, Advised by Prof. [Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang)
-  * Media Computing Group, Advised by Dr. [Kuiyuan Yang](https://sites.google.com/site/kuiyuanyang/)
-  * Beijing, China
-
-
-Service
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
 ======
-* Reviewer of:
-  * Conference on Neural Information Processing Systems (NeurIPS)
-  * The International Conference on Learning Representations (ICLR)
-  * The International Conference on Machine Learning (ICML)
-  * IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  * IEEE Transactions on Multimedia (TMM)
-  * Neurocomputing
-  * IEEE Signal Processing Letters
-  * International Journal of Computer Assisted Radiology and Surgery (CARS)
-  * International Journal of Machine Vision and Application (MVAP)
-  * Knowledge and Information Systems (KAIS)
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
