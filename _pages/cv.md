@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, Wangxuan Institute Of Computer Technology, Peking University, 2012 - 2015
-  * Advised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/yuxinpeng/)
+  * Advised by Prof. [Yuxin Peng](https://59.108.48.34/tiki/yuxinpeng/)
   * Thesis: Incremental Deep Leaning and Its Application in Image Classification
   * Excellent Master Thesis, Rank: 1/21
 
