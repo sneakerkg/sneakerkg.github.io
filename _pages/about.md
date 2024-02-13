@@ -14,7 +14,7 @@ redirect_from:
 
 Recent News
 ======
-* 🔥We will be hosting the tutorial of "Object-centric Representations from the definitions, feature learning to real-world applications" in CVPR 2024. Stay tuned and see you in Seattle!
+* We will be hosting the tutorial of "Object-centric Representations from the definitions, feature learning to real-world applications" in CVPR 2024. Stay tuned and see you in Seattle!
 
 * Introduce our ICLR 2024 work, 🔥Instruct Video-to-Video🔥, an efficient approach for video editing that eliminates the need for per-video-per-model finetuning by constructing a synthetic paired video dataset. ([Paper](https://arxiv.org/abs/2311.00213), [Code](https://github.com/amazon-science/instruct-video-to-video))
 
