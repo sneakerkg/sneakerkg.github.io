@@ -15,7 +15,7 @@ Recent News
 ======
 * I joined Nvidia to work on Autonomous Vehicle and Robotics!
 
-* We will be hosting the tutorial of "Object-centric Representations from the definitions, feature learning to real-world applications" in CVPR 2024. Stay tuned and see you in Seattle!
+* We will be hosting the tutorial of [Object-centric Representations in Computer Vision](https://object-centric-representation.github.io/object-centric-tutorial-2024/) in CVPR 2024. Stay tuned and see you in Seattle!
 
 * 🚀 Exciting News! 📘 Our latest survey paper is now released, presenting a comprehensive analysis of hallucination phenomena in multimodal large language models (MLLMs), also known as Large Vision-Language Models (LVLMs). ([Paper](https://arxiv.org/abs/2404.18930), [Resource Repo](https://github.com/showlab/Awesome-MLLM-Hallucination)).
 
